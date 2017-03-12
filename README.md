@@ -1,11 +1,11 @@
 # A Better Way to Learn Programming? Notes on The Odin Project
 
 09 Jul 2014   •   [Peter
-Hurford](/web/20160213104530/http://everydayutilitarian.com/essays/who-is-this-peter-guy/)
+Hurford](http://everydayutilitarian.com/essays/who-is-this-peter-guy/)
 
 *Follow up to [“So You Wanna Learn How to Code? Going from Zero to
 Programmer Hero in One Guide, for Great
-Justice”](/web/20160213104530/http://everydayutilitarian.com/essays/learn-code/).*
+Justice”](http://everydayutilitarian.com/essays/learn-code/).*
 
 I’m currently working as a computer programmer at a start-up in Chicago.
 I’m getting paid to write code. It’s pretty neat. Most notably, I was
@@ -15,7 +15,7 @@ I got the job nearly entirely through about 700 hours of self study.
 Best of all, you can do it too!
 
 I [wrote a guide on how to go from “zero to
-hero”](/web/20160213104530/http://everydayutilitarian.com/essays/learn-code/)
+hero”](http://everydayutilitarian.comhttp://everydayutilitarian.com/essays/learn-code/)
 in computer programming. I got a lot of people I know who program to
 contribute. I think it’s a pretty good guide, linking a few resources
 together into a coherent curriculum. In fact, I think it is the best
@@ -26,10 +26,10 @@ Well, turns out someone did work full-time to develop a complete online
 curriculum of their own.
 
 Enter **[The Odin
-Project](/web/20160213104530/http://www.theodinproject.com/)**.
+Project](http://www.theodinproject.com/)**.
 
 Visit there, and [find a complete
-curriculum](/web/20160213104530/http://www.theodinproject.com/courses?ref=home),
+curriculum](http://everydayutilitarian.comhttp://www.theodinproject.com/courses?ref=home),
 focused on Ruby on Rails, that takes you from zero to hero in a
 fulfulling way. Best of all, they focus on doing projects, so you
 actually learn by doing.
@@ -65,22 +65,22 @@ Don’t forget you can speed them to 1.5x (or often even 2x) to get
 through them quicker, as they tend to be pretty slow.
 
 [Course “1: Introduction to Web
-Development”](/web/20160213104530/http://www.theodinproject.com/introduction-to-web-development)
+Development”](http://www.theodinproject.com/introduction-to-web-development)
 is cute and fun to read, but, in my opinion, not really necessary. Skip
 it if you’d like. If you do read it, try and skim. Don’t spend too much
 of your time here.
 
 For [“Web Development 101 » The Basics » 2: How Does the Web
-Work?”](/web/20160213104530/http://www.theodinproject.com/web-development-101/how-does-the-web-work),
+Work?”](http://www.theodinproject.com/web-development-101/how-does-the-web-work),
 I don’t think you really need to spend nearly that much time
 understanding the internet. It might come up on an interview question or
 two, but a thorough understanding isn’t really necessary outside the
 interview. Just watch the [“Not Tubes”
-video](/web/20160213104530/http://www.dontfeartheinternet.com/the-basics/not-tubes)
+video](http://www.dontfeartheinternet.com/the-basics/not-tubes)
 and then move on to the next lesson.
 
 Skip [“Web Development 101 » Web Development Frameworks » 3:
-Backbone.js”](/web/20160213104530/http://www.theodinproject.com/web-development-101/backbone-js)
+Backbone.js”](http://www.theodinproject.com/web-development-101/backbone-js)
 it’s more confusing than helpful and you end up reviewing it in its
 proper detail later, after you understand more stuff.
 
@@ -92,7 +92,7 @@ However, there are a few cases where I think TOP doesn’t have you do
 enough, and slowing down is warranted.
 
 In [“Web Development 101 » The Front End » 4: jQuery
-Basics”](/web/20160213104530/http://www.theodinproject.com/web-development-101/jquery-basics),
+Basics”](http://www.theodinproject.com/web-development-101/jquery-basics),
 you’ll get a chance to do lessons from either Codecademy or Code School.
 I personally found it highly to do lessons from both, because they
 emphasize different things and the repetition is useful. Code School
@@ -104,7 +104,7 @@ you to **fully complete** both Codecademy and Code School lessons for
 jQuery.
 
 In [“Ruby Programming » Intermediate Ruby » Project:
-OOP”](/web/20160213104530/http://www.theodinproject.com/ruby-programming/oop),
+OOP”](http://www.theodinproject.com/ruby-programming/oop),
 I chose to do some additional work: make an AI for the Tic-Tac-Toe
 program that plays optimally. I think this was a worthwhile learning
 experience, and I urge you to try it.
@@ -116,7 +116,7 @@ a much better exercise to make an Ajax front-end for the Ruby
 Tic-tac-toe you already created earlier in the courses. After you
 complete [“Javascript and jQuery » Better Forms with jQuery and AJAX »
 Project: Infinite Scroll and Submitting a Form with
-AJAX”](/web/20160213104530/http://www.theodinproject.com/javascript-and-jquery/infinite-scroll-and-submitting-a-form-with-ajax),
+AJAX”](http://www.theodinproject.com/javascript-and-jquery/infinite-scroll-and-submitting-a-form-with-ajax),
 do this.
 
 ## Let’s Fix The Learning Ruby Section
@@ -125,24 +125,24 @@ I’ll be honest – TOP is great, but I don’t like the TOP’s approach to
 learning Ruby much at all. It just throws too many resources at you, and
 you never learn everything you need at once. So, when you get to [“Web
 Development 101 » The Back End » 2: Ruby
-Basics”](/web/20160213104530/http://www.theodinproject.com/web-development-101/ruby-basics),
+Basics”](http://www.theodinproject.com/web-development-101/ruby-basics),
 **freeze**. We’re going to fix this.
 
 Skip this lesson entirely. Do not do “Web Development 101 » The Back
 End » 2: Ruby Basics” – just mark it as complete and move on.
 
 **Instead**, go to [Codecademy’s Ruby
-Track](/web/20160213104530/http://www.codecademy.com/tracks/ruby) and
+Track](http://www.codecademy.com/tracks/ruby) and
 complete it entirely. Throughout the course, TOP will make you complete
 it all eventually anyway in stages, so we might as well get it out of
 the way now. This way, you’ll get a better mastery of some things that
 come up in TOP before they’re introduced.
 
 Then, after your done with Codecademy’s Ruby Track, read Chris Pine’s
-[“Learn to Program”](/web/20160213104530/https://pine.fm/LearnToProgram)
+[“Learn to Program”](https://pine.fm/LearnToProgram)
 and then read Chapters 1-3 of Peter Cooper’s “Beginning Ruby”. Also
 review [Tutorial Point on Ruby
-Loops](/web/20160213104530/http://www.tutorialspoint.com/ruby/ruby_loops.htm),
+Loops](http://www.tutorialspoint.com/ruby/ruby_loops.htm),
 which is a resource I like that isn’t in TOP, and important for the
 things TOP focuses on.
 
@@ -160,14 +160,14 @@ Since you did things a little out of order, you’ll need the following
 clean-up.
 
 When you get to [“Ruby Programming » Basic Ruby » 2: Ruby Building
-Blocks”](/web/20160213104530/http://www.theodinproject.com/ruby-programming/ruby-building-blocks)
+Blocks”](http://www.theodinproject.com/ruby-programming/ruby-building-blocks)
 you’ll realize that you’ve been plopped in quite well, having already
 completed assignments 1-5. Continue from assignment 6. Skip assignment
 9.
 
 When you get to [“Ruby Programming » Basic Ruby » 3: Advanced Ruby
 Building
-Blocks”](/web/20160213104530/http://www.theodinproject.com/ruby-programming/advanced-ruby-building-blocks)
+Blocks”](http://www.theodinproject.com/ruby-programming/advanced-ruby-building-blocks)
 skip all the assignments and go straight to the Code Quizzes. Complete
 those. If you do well (\>87% on each), continue. Otherwise, go back and
 review, and try again. Try to really understand why you got each
@@ -175,7 +175,7 @@ question wrong.
 
 When you get to [“Ruby Programming » Intermediate Ruby » 1: Object
 Oriented
-Programming”](/web/20160213104530/http://www.theodinproject.com/ruby-programming/object-oriented-programming),
+Programming”](http://www.theodinproject.com/ruby-programming/object-oriented-programming),
 skip assignment 1 because you have already done it.
 
 ## Reorder the JavaScript and jQuery Readings
@@ -185,10 +185,10 @@ Basics”, I think now is a better time to do some of the readings that
 TOP puts off for later. So read the following links now and not later:
 
 1.) [“Agent Cooper on Comparing JS and
-Ruby”](/web/20160213104530/http://agentcooper.github.io/js-ruby-comparison/)
+Ruby”](http://agentcooper.github.io/js-ruby-comparison/)
 
 2.) [“Ruby vs. Javascript
-Functions”](/web/20160213104530/http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/)
+Functions”](http://skilldrick.co.uk/2011/01/ruby-vs-javascript-functions-procs-blocks-and-lambdas/)
 
 -
 
@@ -198,13 +198,13 @@ authors of the Odin Project. In my opinion, the readings make more sense
 when they are presented like this:
 
 1.) [“JavaScript Objects in
-Detail”](/web/20160213104530/http://javascriptissexy.com/javascript-objects-in-detail/)
+Detail”](http://javascriptissexy.com/javascript-objects-in-detail/)
 
 2.) [“JavaScript Prototype in Plain Detailed
-Language”](/web/20160213104530/http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+Language”](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 
 3.) [“OOP in JavaScript – What You Need to
-Know”](/web/20160213104530/http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+Know”](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 
 …Now, pause to build something object oriented. I don’t think
 re-creating Tic-tac-toe in JavaScript is necessary – Minesweeper and
@@ -216,45 +216,45 @@ etc.) that inherit from “person” but do special things.
 …Now back to reading.
 
 4.) [“JavaScript Variable Scope and Hoisting
-Explained”](/web/20160213104530/http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+Explained”](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 
 5.) [“Understand JavaScript Closures with
-Ease”](/web/20160213104530/http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+Ease”](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 
 6.) [“Understand JavaScript Callback Functions and Use
-Them”](/web/20160213104530/http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+Them”](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 
 7.) [“Understand Asynchronous Code in Layman’s
-Terms”](/web/20160213104530/http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms)
+Terms”](http://stackoverflow.com/questions/11233633/understanding-asynchronous-code-in-laymans-terms)
 (a reading not in TOP that I added)
 
 8.) [“Callbacks, Listeners, and
-Promises”](/web/20160213104530/http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/)
+Promises”](http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/)
 
 9.) [“Understand JavaScript’s ‘This’ with Clarity and Master
-It”](/web/20160213104530/http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+It”](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 10.) [“JavaScript Apply, Call, and Bind
-Methods”](/web/20160213104530/http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
+Methods”](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 
 11.) [“Understand JavaScript Function
-Prototype”](/web/20160213104530/http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/)
+Prototype”](http://www.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/)
 
 12.) [“Non-Blocking JavaScript and CSS in Modern
-Browsers”](/web/20160213104530/http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed)
+Browsers”](http://stackoverflow.com/questions/8197072/non-blocking-javascript-and-css-in-modern-browsers-is-it-still-needed)
 
 13.) [“Organizing JavaScript
-Code”](/web/20160213104530/http://alistapart.com/article/the-design-of-code-organizing-javascript)
+Code”](http://alistapart.com/article/the-design-of-code-organizing-javascript)
 
 …Now do [the Minesweeper
-project](/web/20160213104530/http://www.theodinproject.com/javascript-and-jquery/minesweeper).
+project](http://www.theodinproject.com/javascript-and-jquery/minesweeper).
 
 Then do the readings in [“Javascript and jQuery » Advanced Browser
 Work » 3: Using Canvas to Draw and
-More”](/web/20160213104530/http://www.theodinproject.com/javascript-and-jquery/using-canvas-to-draw-and-more)
+More”](http://www.theodinproject.com/javascript-and-jquery/using-canvas-to-draw-and-more)
 and then complete [“Javascript and jQuery » Advanced Browser Work »
 Project: Building Games with
-Canvas”](/web/20160213104530/http://www.theodinproject.com/javascript-and-jquery/building-games-with-canvas).
+Canvas”](http://www.theodinproject.com/javascript-and-jquery/building-games-with-canvas).
 
 You’re now ready to go onto “Javascript and jQuery » Better Forms with
 jQuery and AJAX” as normal. Don’t worry too much about the stuff you
@@ -279,28 +279,28 @@ programming job. But for people with the time and inclination, it could
 be *a lot better* than trying to go through this guide yourself. If
 you’ve got the time, it’s definitely at least worth investigating.
 
-[App Academy](/web/20160213104530/http://www.appacademy.io/#p-home) is
+[App Academy](http://www.appacademy.io/#p-home) is
 widely considered to be the best program and [there’s been lots of
 discussion of it on
-LessWrong](/web/20160213104530/https://www.google.com/search?q=site%3Alesswrong.com+app+academy&oq=site%3Alesswrong.com+app+academy&aqs=chrome..69i57j69i58.5575j0j7&sourceid=chrome&es_sm=91&ie=UTF-8).
+LessWrong](https://www.google.com/search?q=site%3Alesswrong.com+app+academy&oq=site%3Alesswrong.com+app+academy&aqs=chrome..69i57j69i58.5575j0j7&sourceid=chrome&es_sm=91&ie=UTF-8).
 App Academy covers exactly the same material as this guide (and not much
 more or less), but gives you support, formal teaching, and a good
 learning environment. Buck Shlegeris is a TA at App Academy and is happy
 to be a contact if you’re interested in getting more information on
 applying and/or getting coached through the process. [Here’s an
 interview with Buck about App
-Academy](/web/20160213104530/http://80000hours.org/blog/329-interview-with-buck-shlegeris-from-app-academy)
+Academy](http://80000hours.org/blog/329-interview-with-buck-shlegeris-from-app-academy)
 for more information.
 
 Buck and Chris Hallquist (who went to App Academy) also say that [Hack
-Reactor](/web/20160213104530/http://www.hackreactor.com/) is the
+Reactor](http://www.hackreactor.com/) is the
 second-best program if you’re not able to get into App Academy (it is
 somewhat selective). [Here’s a full list of all available bootcamps,
 with
-details](/web/20160213104530/http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/).
+details](http://www.skilledup.com/learn/programming/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/).
 
 It’s worth noitng that App Academy might be best for people in the US.
-[Maker’s Academy](/web/20160213104530/http://www.makersacademy.com/)
+[Maker’s Academy](http://www.makersacademy.com/)
 seems pretty good for people near London, though.
 
 ## When You Can Get a Job
@@ -313,9 +313,9 @@ will let you learn *loads*, but will also *pay you money* to do it! An
 unbeatable deal! And you can still learn more on the side! I recommend
 trying to do some work toward applications (completing all of Course 7
 [“Getting Hired as a Web
-Developer”](/web/20160213104530/http://www.theodinproject.com/getting-hired-as-a-web-developer))
+Developer”](http://www.theodinproject.com/getting-hired-as-a-web-developer))
 right after finishing Course \#4 [“Ruby on
-Rails”](/web/20160213104530/http://www.theodinproject.com/ruby-on-rails).
+Rails”](http://www.theodinproject.com/ruby-on-rails).
 
 ## More Things to Learn
 
@@ -323,9 +323,9 @@ This is sort of more of an afterthought than it probably should be, but
 it could be useful to learn Python. Python is somewhat popular in the
 start-up world, though not nearly as popular as Ruby on Rails. However,
 Python is really popular in the academic world. It has [good support for
-statistical programming](/web/20160213104530/http://www.numpy.org/) and
+statistical programming](http://www.numpy.org/) and
 has a platform called
-[Django](/web/20160213104530/https://www.djangoproject.com/) that acts
+[Django](https://www.djangoproject.com/) that acts
 similarly to Rails. It’s probably good to learn Python so you’re not
 “pidgeonholed” into only one type of programmer job (though the demand
 is definitely there).
@@ -337,9 +337,9 @@ particular use for it.
 
 However, if you’re interested, now would be a good time to pick it up.
 If you’d like, work your way through [“Learn Python the Hard
-Way”](/web/20160213104530/http://learnpythonthehardway.org/), skimming a
+Way”](http://learnpythonthehardway.org/), skimming a
 bit as necessary. Also, give a look through [“Think
-Python”](/web/20160213104530/http://www.greenteapress.com/thinkpython/thinkpython.pdf),
+Python”](http://www.greenteapress.com/thinkpython/thinkpython.pdf),
 though you’ve probably learned much of it already from completing “Learn
 Python the Hard Way”.
 
@@ -357,7 +357,7 @@ ERB, which you have been using to display Ruby in HTML, is nice, but
 HAML is also popular. Haml makes a trade-off that allows you to write
 code faster, but has a steeper learning curve and is hard to understand.
 Read through [the HAML
-Tutorial](/web/20160213104530/http://haml.info/tutorial.html). For a
+Tutorial](http://haml.info/tutorial.html). For a
 project, take a project you have done where you wrote views in ERB, and
 re-write all those views in Haml. Make sure it works.
 
@@ -365,11 +365,11 @@ re-write all those views in Haml. Make sure it works.
 
 It could be a good idea to learn CoffeeScript. Skim through [the Tuts
 Plus Coffeescript
-Tutorial](/web/20160213104530/http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027),
+Tutorial](http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027),
 then through http://coffeescript.org/. Next, [the tutorial at
-CarbonFive](/web/20160213104530/http://coffeescript.carbonfive.com/).
+CarbonFive](http://coffeescript.carbonfive.com/).
 Finally, watch Coffeescript in action [in this
-RailsCast](/web/20160213104530/http://railscasts.com/episodes/267-coffeescript-basics).
+RailsCast](http://railscasts.com/episodes/267-coffeescript-basics).
 
 As a project, make a Coffescript function that prints out the first
 twenty numbers in the Fibonacci sequence. That should be good enough,
@@ -378,20 +378,20 @@ like. You also might want to read through http://coffeescript.org/ a
 little more thoroughly to get a better understanding of what it can do.
 You’ll also benefit from reading through [CSS Tricks’s jQuery
 Coffeescript Cheat
-Sheat](/web/20160213104530/http://css-tricks.com/jquery-coffeescript/)
+Sheat](http://css-tricks.com/jquery-coffeescript/)
 to get an idea of how to do jQuery stuff with Coffeescript.
 
 -
 
 It could be a good idea to learn Knockout.js. [Do this
-tutorial.](/web/20160213104530/http://learn.knockoutjs.com/#/?tutorial=intro)
+tutorial.](http://learn.knockoutjs.com/#/?tutorial=intro)
 
 -
 
 You might want to learn some Data Science. This deserves a post of it’s
 own, but you could thumb back to “Optional Step Twenty-four – Learn Some
 Data Science” [in my
-guide](/web/20160213104530/http://everydayutilitarian.com/essays/learn-code/).
+guide](http://everydayutilitarian.com/essays/learn-code/).
 
 ## Conclusion
 

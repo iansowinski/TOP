@@ -1,0 +1,6 @@
+blacks = [♔,♕,♖,♗,♘,♙]
+whites = [♚,♛,♜,♝,♞,♟]
+
+puts whites[2]+whites[3]+whites[4]+whites[0]+whites[1]+whites[4]+whites[3]+whites[2]
+8.times {print whites[5]}
+print "\n"

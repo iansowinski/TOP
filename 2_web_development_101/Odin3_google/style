@@ -1,0 +1,7 @@
+.logo {
+	align: center;
+	position: relative;
+}
+.logo > img {
+	width: 50%;
+}

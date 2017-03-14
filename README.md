@@ -1,7 +1,7 @@
 [Based on expierience of Peter Hurford](http://everydayutilitarian.com/essays/notes-on-the-odin-project/)
 
 # Roadmap
-- [ ]  Course 1: Introduction to Web Development – 0hrs, skip it unless you
+- [x]  Course 1: Introduction to Web Development – 0hrs, skip it unless you
     find it interesting.
 
 - [x]  Course 2: Web Development 101 – 45hrs-80hrs
@@ -69,16 +69,12 @@
             though I spent time adding an AI to the Hangman too (to
             guess the word based on letter frequency and knowledge of
             the dictionary)
-    - [x]  Ruby on the Web – 7-12hrs
-        - [x]  1: Bringing Ruby Online – 1-2hrs
-        - [x]  Project: Ruby on the Web (Twitter Spambot and Web Server) –
-            6-10hrs
     - [x]  A Bit of Computer Science – 8-15hrs
         - [x]  1: A Very Brief Intro to CS – 0.5-1hr
         - [x]  2: Recursive Methods – 0.5-1hr
         - [x]  Project: Recursion (Fibbonachi, Merge Sort) – 2-4hrs
         - [x]  3: Common Data Structures and Algorithms – 1hr
-        - [x]  Project: Data Structures and Algorithms (Binary Trees,
+        - [ ]  Project: Data Structures and Algorithms (Binary Trees,
             Knights Travails) – 4-8hrs
     - [x]  Testing Ruby with RSpec - 11hrs
         - [x]  1: Introduction to RSpec – 1hr
@@ -92,6 +88,9 @@
              Maybe +10-20hrs if you add an AI. ;)
         - [ ]  1: Conclusion – 5min
 - [ ]  Course 4: Introduction to Rails – 106-200hrs
+    - [ ]  Sinatra
+        - [ ] 1: Sinatra Basics
+        - [ ] Project: Sinatra
     - [ ]  Introduction to Rails – 40hrs
         - [ ]  1: How this Course Will Work – 5min
         - [ ]  Project: Getting Your Feet Wet (Hartl Tutorial) – the entire

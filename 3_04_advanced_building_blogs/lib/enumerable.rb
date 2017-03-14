@@ -104,10 +104,10 @@ module Enumerable
     return memo
   end
 
-  def multiply_els
-    self.my_inject{|i, n| i * n}
-  end
+  #def multiply_els
+  #  self.my_inject{|i, n| i * n}
+  #end
 end
 
 array = [1, 2, 4, 6, 2, 6]
-puts array.multiply_els
+#puts array.multiply_els

@@ -1,6 +1,6 @@
 task default: %w[test]
 
 task :test do
-  ruby "spec/spec_enummerable.rb"
+  rspec "spec/spec_enummerable.rb"
 end
 

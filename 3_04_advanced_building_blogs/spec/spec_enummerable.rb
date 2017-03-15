@@ -59,3 +59,21 @@ describe "#my_map" do
     end
   end
 end
+
+describe "#my_select" do
+  context "given '[1,2,3,4]' and {|i| i == 3}" do
+    it "returns '[3]'" do
+      expect([1,2,3,4].my_select{|i| i == 3}).to eql([3])
+    end
+  end
+  context "given '[1,2,3,4]' and {|i| i == 5}" do
+    it "returns empty array" do
+      expect([1,2,3,4].my_select{|i| i == 5}).to eql([])
+    end
+  end
+  context "given [1,2,3,4] and {}" do
+    it "return empty array" do
+      expect([1,2,3,4].my_select{}).to eql([])
+    end
+  end
+end

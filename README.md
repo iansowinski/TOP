@@ -38,6 +38,10 @@
         - [x]  Project: Ruby on Rails (Basic Blog App) – 6hrs for a
             beginner, though I could do it now in 20 minutes
         - [x]  3: Backbone.js – Skip this per my recommendation
+    - [ ]  Pair Programming
+        - [x]  1: Introduction to Pair Ptogramming
+        - [ ]  2: Prepairing to Remote Pair
+        - [ ] Project: Pairing Project
     - [x]  Additional Important Topics – 1-4.5hrs
         - [x]  1: Git Basics – 1-2hrs
         - [x]  2: The Cloud, Hosting, and Software as a Service (SAAS) –
@@ -79,14 +83,14 @@
     - [x]  Testing Ruby with RSpec - 11hrs
         - [x]  1: Introduction to RSpec – 1hr
         - [ ]  Project: Testing Ruby (Past tests, Connect Four) – 10hrs
-    - [ ]  Git - 2-5hrs
-        - [ ]  1: A Deeper Look at Git – 1-3hrs
-        - [ ]  2: Using Git in the Real World – 1-2hrs
+    - [x]  Git - 2-5hrs
+        - [x]  1: A Deeper Look at Git – 1-3hrs
+        - [x]  2: Using Git in the Real World – 1-2hrs
     - [ ]  Conclusion – 12-40hrs
         - [ ]  Project: Ruby Final Project – I haven’t actually done this
             one yet, it’s on the to-do list.  But 12-20hrs looks right.
              Maybe +10-20hrs if you add an AI. ;)
-        - [ ]  1: Conclusion – 5min
+        - [x]  1: Conclusion – 5min
 - [ ]  Course 4: Introduction to Rails – 106-200hrs
     - [ ]  Sinatra
         - [ ] 1: Sinatra Basics

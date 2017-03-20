@@ -92,9 +92,9 @@
              Maybe +10-20hrs if you add an AI. ;)
         - [x]  1: Conclusion – 5min
 - [ ]  Course 4: Introduction to Rails – 106-200hrs
-    - [ ]  Sinatra
-        - [ ] 1: Sinatra Basics
-        - [ ] Project: Sinatra
+    - [x]  Sinatra
+        - [x] 1: Sinatra Basics
+        - [x] Project: Sinatra
     - [ ]  Introduction to Rails – 40hrs
         - [ ]  1: How this Course Will Work – 5min
         - [ ]  Project: Getting Your Feet Wet (Hartl Tutorial) – the entire
